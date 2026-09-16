@@ -6,7 +6,7 @@ console.log("Hello, World!");
 
 // Store text values in variables
 
-const userName = "Juho";
+const userName = "Durgam";
 const favoriteAnimal = "Blue Elephant";
 
 
