@@ -38,7 +38,7 @@ let userfavoriteAnimal = prompt("What is your favorite animal?");
 if (userfavoriteAnimal === "Blue Elephant") {
   console.log("Great choice! That's my favorite animal too!");
 }
-else {"Nice! Your favorite animal is"+ [userfavoriteAnimal]};
+else {"Nice! Your favorite animal is"+ userfavoriteAnimal + "."};
 
 // ⭐⭐ BONUS Otherwise, print: Nice! Your favorite animal is [animal]. Can you figure out how to do this using if / else?
 
